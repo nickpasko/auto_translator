@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"html/template"
 	"net/http"
-	"github.com/nickpasko/auto_translator/auto_model"
 )
 
 func SearchHandler(w http.ResponseWriter, r *http.Request) {
