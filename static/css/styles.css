@@ -1,0 +1,105 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.kl-logo {
+    background: #f9e538;
+    padding-top: 120px;
+    padding-bottom: 80px;
+    display:block;
+}
+
+.kl-logo-image-wrapper {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+}
+
+.kl-logo-image-wrapper>img {
+    width: 100%;
+}
+
+.kl-wholewidth-section {
+    background: #f9e538;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.kl-wholewidth-section>.kl-content {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.kl-wholewidth-section>.kl-content>p {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-top: 14px;
+}
+
+h1 {
+    font-size: 76px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 46px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-top: 22px;
+    margin-bottom: 10px
+}
+
+.kl-wholewidth-section .button-wrapper {
+    text-align: center;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.kl-wholewidth-section .button {
+    background: #7ee35f;
+    border-radius: 35px;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    padding-left: 51px;
+    padding-right: 51px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.hardware-by {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.hardware-by>div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lab-409-logo {
+    max-width: 150px;
+    margin-left: auto;
+    float:right;
+}
+
+.lab-409-logo>h3 {
+    width: 100%;
+    float: right;
+
+}.lab-409-logo>img {
+    width: 100%;
+    float: right;
+}
