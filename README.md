@@ -1,20 +1,13 @@
-# Office portal repo
+# Auto translator repo
 
-This project intended to create office portal for [Koniglabs](http://koniglabs,com) and [Lab409](http://lab409.ru)
+This is a pet project intended to try automated translation of auto parts search results
+[Koniglabs](http://koniglabs,com)
 
 ## Who developed this
-
-Hardware was designed by [Lab409](http://lab409.ru):
-
-* [Danil Borchevkin](https://github.com/DanilBorchevkin)
-
-* Irina Zolotareva
 
 Software was developed by [KonigLabs](http://koniglabs.com):
 
 * [Nick Pasko](https://github.com/nickpasko)
-
-* Frontend Designer - TBA
 
 ## License 
 
@@ -34,7 +27,7 @@ See LICENCE file
 
 * ***/LICENCE*** - text of a licence used for this project.
 
-* ***/portal.go*** - main file of the project.
+* ***/auto_translator.go*** - main file of the project.
 
 * ***/README.md*** - this file.
 
@@ -43,7 +36,7 @@ See LICENCE file
 For compile a project you need to install go compiler used for your arch. Then use:
 
 ```
-go build portal.go
+go build auto_translator.go
 ```
 
 ## Run information
@@ -55,8 +48,6 @@ The app starts serve a web-server on *8081* port.
 TBA
 
 ## Feedback
-
-Hardware questions - [Danil Borchevkin](https://github.com/DanilBorchevkin)
 
 Software questions - [Nick Pasko](https://github.com/nickpasko)
 
