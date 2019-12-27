@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"net/http"
 	"fmt"
 	"html/template"
+	"net/http"
 )
 
 func IndexHandler(w http.ResponseWriter, r *http.Request) {
@@ -16,4 +16,4 @@ func IndexHandler(w http.ResponseWriter, r *http.Request) {
 	index.Execute(w, nil)
 }
 
-//192.168.88.253
+// call by proper IP, "localhost" doesn't really work
